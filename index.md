@@ -1,4 +1,3 @@
-# #a11yTOConf 2019 Notes
 ## Day 1
 
 - [HTML is accessible by Default](2019-10-24-Scott_O_Hara-HTML_is_accessible_by_default.md) - Scott O'Hara
