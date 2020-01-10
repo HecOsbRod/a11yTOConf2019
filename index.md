@@ -33,6 +33,9 @@
 - [Beyond the code: Accessibility of language, tone, culture, and concept](2019-10-26-Beyond-the-code-Accessibility-of-language-tone-culture-and-concept.md) - Littlenavi
 - [Time for some action Fractions of Friction.md](2019-10-26-Bryce_Johnson-Time_for_some_action_Fractions_of_Friction.md) - Bryce Johnson
 
+## Other years
+- [2018 Conference Notes](https://hecosbrod.github.io/a11yTOConf2018/)
+
 ## End Notes
 This notes were taken during the #a11yTO Conference in Toronto.  
 I appologize if some of them don't make sense, taking notes during a conference is complicated & English is my second language. 
