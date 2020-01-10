@@ -43,6 +43,6 @@ If you:
 - or did you see any typos (there will be many)...
 - or do you want to collaborate? 
 
-... please reach out to me at [@madebyhector](http://www.twitter.com/madebyhector)  
+... please reach out to me at @HecOsbRod](http://www.twitter.com/HecOsbRod)
 
 Thanks for the amazing #a11y Community in TO.
