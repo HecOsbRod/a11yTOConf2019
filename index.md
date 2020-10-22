@@ -34,11 +34,13 @@
 - [Time for some action Fractions of Friction.md](2019-10-26-Bryce_Johnson-Time_for_some_action_Fractions_of_Friction.md) - Bryce Johnson
 
 ## Other years
-- [2018 Conference Notes](https://hecosbrod.github.io/a11yTOConf2018/)
+
+- [2018 conference notes](https://hecosbornerod.github.io/a11yTOConf2018/)
+- [2020 conference notes](https://hecosbornerod.github.io/a11yTOConf2020/)
 
 ## End Notes
 This notes were taken during the #a11yTO Conference in Toronto.  
-I appologize if some of them don't make sense, taking notes during a conference is complicated & English is my second language. 
+I apologize if some of them don't make sense, taking notes during a conference is complicated & English is my second language. 
 
 If you:
 - Want to add more information ...
@@ -46,6 +48,6 @@ If you:
 - or did you see any typos (there will be many)...
 - or do you want to collaborate? 
 
-... please reach out to me at @HecOsbRod](http://www.twitter.com/HecOsbRod)
+... please reach out to me at [@HecOsborneRod](http://www.twitter.com/HecOsborneRod)
 
 Thanks for the amazing #a11y Community in TO.
